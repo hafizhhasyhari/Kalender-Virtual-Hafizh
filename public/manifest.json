@@ -1,0 +1,10 @@
+{
+  "name": "Bookie",
+  "short_name": "Bookie",
+  "theme_color": "#1f2937",
+  "background_color": "#f1f5f9",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
